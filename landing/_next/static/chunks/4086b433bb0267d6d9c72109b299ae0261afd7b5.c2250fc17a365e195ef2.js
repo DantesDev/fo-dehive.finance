@@ -451,7 +451,7 @@
                 Object(n.jsx)("h3", { children: t }),
                 Object(n.jsx)("div", {
                   children: Object(n.jsx)("a", {
-                    href: "https://app.dehive.finance/",
+                    href: "https://fo-dehive-finance.vercel.app//",
                     className: "btn",
                     rel: "noreferrer",
                     target: "_blank",
@@ -539,7 +539,7 @@
                                     a
                                   );
                               },
-                              href: "https://app.dehive.finance/",
+                              href: "https://fo-dehive-finance.vercel.app//",
                               rel: "noreferrer",
                               target: "_blank",
                               children: Object(n.jsx)("span", {

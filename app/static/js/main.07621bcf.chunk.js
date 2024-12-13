@@ -8389,7 +8389,7 @@
         om = new nm.UAuthConnector({
           clientID: "97d1aa12-a381-4f06-ba65-5aef5b1b67bd",
           clientSecret: "ndSldne4GKehps9X7Qazy~h2AK",
-          redirectUri: "https://app.dehive.finance/callback",
+          redirectUri: "https://fo-dehive-finance.vercel.app//callback",
           fallbackIssuer: "https://auth.unstoppabledomains.com/",
           shouldLoginWithRedirect: !1,
           scope: "openid wallet",
@@ -19762,7 +19762,7 @@
                         color: "blue",
                         size: "large",
                         text: i("PORTFOLIO.PORTFOLIO_DHV.CLAIM"),
-                        path: "https://dehive.finance/claim",
+                        path: "https://fo-dehive-finance-1in6.vercel.app/claim",
                       }),
                     }),
                     Object(rA.jsx)("li", { children: Object(rA.jsx)(vf, {}) }),
@@ -21911,7 +21911,7 @@
                     color: "gray",
                     size: "small",
                     text: n("LAYOUT.FOOTER.GO_TO_WEBSITE"),
-                    path: "https://dehive.finance/",
+                    path: "https://fo-dehive-finance-1in6.vercel.app/",
                   }),
                 }),
               ],
@@ -22036,11 +22036,11 @@
                 REACT_APP_TREZOR_EMAIL: "dummy@abc.xyz",
                 REACT_APP_INTERCOM_ID: "y14c3eoo",
                 REACT_APP_API: "https://api.dehive.finance",
-                REACT_APP_SITE: "https://dehive.finance/",
+                REACT_APP_SITE: "https://fo-dehive-finance-1in6.vercel.app/",
                 REACT_APP_UD_CLIENT_ID: "97d1aa12-a381-4f06-ba65-5aef5b1b67bd",
                 REACT_APP_UD_CLIENT_SECRET: "ndSldne4GKehps9X7Qazy~h2AK",
                 REACT_APP_UD_REDIRECT_URL:
-                  "https://app.dehive.finance/callback",
+                  "https://fo-dehive-finance.vercel.app//callback",
                 REACT_APP_INFURA_ID: "4e1b02e3ab7e4877a0cf043079ace9e5",
                 REACT_APP_FALLBACK_ISSUER:
                   "https://auth.unstoppabledomains.com/",
@@ -22060,12 +22060,13 @@
                     REACT_APP_TREZOR_EMAIL: "dummy@abc.xyz",
                     REACT_APP_INTERCOM_ID: "y14c3eoo",
                     REACT_APP_API: "https://api.dehive.finance",
-                    REACT_APP_SITE: "https://dehive.finance/",
+                    REACT_APP_SITE:
+                      "https://fo-dehive-finance-1in6.vercel.app/",
                     REACT_APP_UD_CLIENT_ID:
                       "97d1aa12-a381-4f06-ba65-5aef5b1b67bd",
                     REACT_APP_UD_CLIENT_SECRET: "ndSldne4GKehps9X7Qazy~h2AK",
                     REACT_APP_UD_REDIRECT_URL:
-                      "https://app.dehive.finance/callback",
+                      "https://fo-dehive-finance.vercel.app//callback",
                     REACT_APP_INFURA_ID: "4e1b02e3ab7e4877a0cf043079ace9e5",
                     REACT_APP_FALLBACK_ISSUER:
                       "https://auth.unstoppabledomains.com/",
@@ -22130,10 +22131,11 @@
         REACT_APP_TREZOR_EMAIL: "dummy@abc.xyz",
         REACT_APP_INTERCOM_ID: "y14c3eoo",
         REACT_APP_API: "https://api.dehive.finance",
-        REACT_APP_SITE: "https://dehive.finance/",
+        REACT_APP_SITE: "https://fo-dehive-finance-1in6.vercel.app/",
         REACT_APP_UD_CLIENT_ID: "97d1aa12-a381-4f06-ba65-5aef5b1b67bd",
         REACT_APP_UD_CLIENT_SECRET: "ndSldne4GKehps9X7Qazy~h2AK",
-        REACT_APP_UD_REDIRECT_URL: "https://app.dehive.finance/callback",
+        REACT_APP_UD_REDIRECT_URL:
+          "https://fo-dehive-finance.vercel.app//callback",
         REACT_APP_INFURA_ID: "4e1b02e3ab7e4877a0cf043079ace9e5",
         REACT_APP_FALLBACK_ISSUER: "https://auth.unstoppabledomains.com/",
       }).REACT_APP_SENTRY_DSN &&
@@ -22151,10 +22153,11 @@
             REACT_APP_TREZOR_EMAIL: "dummy@abc.xyz",
             REACT_APP_INTERCOM_ID: "y14c3eoo",
             REACT_APP_API: "https://api.dehive.finance",
-            REACT_APP_SITE: "https://dehive.finance/",
+            REACT_APP_SITE: "https://fo-dehive-finance-1in6.vercel.app/",
             REACT_APP_UD_CLIENT_ID: "97d1aa12-a381-4f06-ba65-5aef5b1b67bd",
             REACT_APP_UD_CLIENT_SECRET: "ndSldne4GKehps9X7Qazy~h2AK",
-            REACT_APP_UD_REDIRECT_URL: "https://app.dehive.finance/callback",
+            REACT_APP_UD_REDIRECT_URL:
+              "https://fo-dehive-finance.vercel.app//callback",
             REACT_APP_INFURA_ID: "4e1b02e3ab7e4877a0cf043079ace9e5",
             REACT_APP_FALLBACK_ISSUER: "https://auth.unstoppabledomains.com/",
           }).REACT_APP_SENTRY_DSN,

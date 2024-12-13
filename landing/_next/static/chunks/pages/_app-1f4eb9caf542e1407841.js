@@ -3586,7 +3586,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                 ],
                               }),
                             Object(r.jsx)("a", {
-                              href: "https://app.dehive.finance/",
+                              href: "https://fo-dehive-finance.vercel.app//",
                               className: "btn gradient",
                               onClick: function () {
                                 return $.b({
@@ -3637,7 +3637,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                         m !== Te.c[Te.a.WalletConnect] &&
                           Object(r.jsx)("div", {
                             children: Object(r.jsx)("a", {
-                              href: "https://app.dehive.finance/",
+                              href: "https://fo-dehive-finance.vercel.app//",
                               className: "btn gradient",
                               onClick: function () {
                                 $.b({

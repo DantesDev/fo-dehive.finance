@@ -166,7 +166,9 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                     case 0:
                       return (
                         (e.next = 2),
-                        C.a.get("https://dehive.finance/api/circulating-supply")
+                        C.a.get(
+                          "https://fo-dehive-finance-1in6.vercel.app/api/circulating-supply"
+                        )
                       );
                     case 2:
                       return (t = e.sent), (n = t.data), e.abrupt("return", n);
@@ -267,7 +269,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                     n
                                   );
                               },
-                              href: "https://app.dehive.finance/dhv",
+                              href: "https://fo-dehive-finance.vercel.app//dhv",
                               rel: "noreferrer",
                               target: "_blank",
                               children: Object(i.jsx)("span", {
