@@ -384,7 +384,7 @@
                   className: I.a.buttons,
                   children: [
                     Object(n.jsxs)("a", {
-                      href: "https://t.me/DeHive_chat",
+                      href: "https://t.me/+kAgI7LFq_j4wMzJk",
                       className: H()("btn", I.a.btn),
                       rel: "noreferrer",
                       target: "_blank",

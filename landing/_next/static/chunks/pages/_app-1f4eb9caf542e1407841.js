@@ -2973,7 +2973,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
               Object(r.jsx)("li", {
                 className: te.a.telegram,
                 children: Object(r.jsx)("a", {
-                  href: "https://t.me/DeHive_chat",
+                  href: "https://t.me/+kAgI7LFq_j4wMzJk",
                   rel: "noreferrer",
                   target: "_blank",
                   onClick: function () {
@@ -2989,7 +2989,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
               Object(r.jsx)("li", {
                 className: te.a.twitter,
                 children: Object(r.jsx)("a", {
-                  href: "https://twitter.com/dehive_finance",
+                  href: "https://x.com/DeHive_Fi",
                   rel: "noreferrer",
                   target: "_blank",
                   onClick: function () {
@@ -3176,7 +3176,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                 ],
                               }),
                               Object(r.jsxs)("a", {
-                                href: "https://t.me/DeHive_chat",
+                                href: "https://t.me/+kAgI7LFq_j4wMzJk",
                                 rel: "noreferrer",
                                 target: "_blank",
                                 className: "btn border-white",

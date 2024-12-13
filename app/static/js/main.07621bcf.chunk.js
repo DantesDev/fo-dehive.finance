@@ -21401,11 +21401,15 @@
         xI = n(326),
         LI = n.n(xI),
         PI = [
-          { title: "Telegram", icon: jI, link: "https://t.me/DeHive_chat" },
+          {
+            title: "Telegram",
+            icon: jI,
+            link: "https://t.me/+kAgI7LFq_j4wMzJk",
+          },
           {
             title: "Twitter",
             icon: vI,
-            link: "https://twitter.com/dehive_finance",
+            link: "https://x.com/DeHive_Fi",
           },
         ],
         DI = function (e) {
