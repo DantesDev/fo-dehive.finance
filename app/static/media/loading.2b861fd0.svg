@@ -1,0 +1,36 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FF01DD" />
+      <stop offset="0.01%" stop-color="#FF01DD" />
+      <stop offset="19.27%" stop-color="#B24BDF" />
+      <stop offset="45.83%" stop-color="#14E1E2" />
+      <stop offset="100%" stop-color="#5C5CFF" />
+    </linearGradient>
+  </defs>
+  <path
+    d="M 50,50 m 0,-44 a 44,44 0 1 1 0,88 a 44,44 0 1 1 0,-88"
+    stroke="url(#gradient)"
+    stroke-dashoffset="0"
+    stroke-linecap="round"
+    stroke-width="12"
+    fill-opacity="0"
+    id="theMotionPath"
+  >
+    <animateTransform
+      attributeName="transform"
+      repeatCount="indefinite"
+      additive="sum"
+      type="rotate"
+      from="360 50 50"
+      to="0 50 50"
+      dur="1.25s"
+    />
+    <animate
+      attributeName="stroke-dasharray"
+      repeatCount="indefinite"
+      values="0px, 276.46px;276.46px, 276.46px;0px, 276.46px"
+      dur="3.75s"
+    />
+  </path>
+</svg>
